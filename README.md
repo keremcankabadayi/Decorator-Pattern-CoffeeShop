@@ -1,4 +1,4 @@
-# This is an example of Observer Pattern.
+# This is an example of Decorator Pattern.
 
 Story:
 
